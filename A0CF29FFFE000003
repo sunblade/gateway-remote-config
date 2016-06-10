@@ -1,0 +1,13 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "A0CF29FFFE000003",
+		"servers": [ { "server_address": "172.1.3.9", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true } ],
+		"gps_tty_path": "/dev/ttyAMA0",
+		"fake_gps": false,
+		"ref_latitude": 52.256171,
+		"ref_longitude": 6.770565,
+		"ref_altitude": 4,
+		"contact_email": "lora@i586.pl",
+		"description": "MASTER IT EU868-GPS-ARMv7 - LoRa Gateway " 
+	}
+}
