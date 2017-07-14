@@ -4,10 +4,10 @@
                 "servers": [ { "server_address": "127.0.0.1", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true } ],
                 "gps_tty_path": "/dev/serial0", /* Raspberry PI 3 */
                 "fake_gps": true,
-                "ref_latitude": 49.704546, 
-                "ref_longitude": 18.635102,
+                "ref_latitude": 49.75629,  
+                "ref_longitude": 18.6301,
                 "ref_altitude": 320,
                 "contact_email": "lora@i586.pl",
-                "description": "MASTER IT EU868-GPS-ARMv7 - LoRa GW5 - backup "
+                "description": "MASTER IT EU868-GPS-ARMv7 - LoRa GW2"
         }
 }
